@@ -16,6 +16,7 @@ $ python replace.py 10.12.151.12 db.ridi.io
 
 ## Todo
 
+- [ ] 정규식 지원
 - [ ] Pull Request 자동 생성
 - [ ] `sys.arg`에서 `repository_urls` 가져오기
 - [ ] `sys.arg`에서 `PUSH_TO_MASTER` 가져오기
